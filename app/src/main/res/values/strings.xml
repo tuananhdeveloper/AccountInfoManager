@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Account Manager</string>
+    <string name="menu_title_add_item">Add Item</string>
+    <string name="ok">OK</string>
+  <string name="cancel">Cancel</string>
+    <string name="nothing_to_show_here">Nothing to show here</string>
+</resources>
